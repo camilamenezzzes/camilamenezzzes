@@ -19,8 +19,10 @@ Tenho **Python** como minha principal linguagem de trabalho, utilizando-a para e
 | Categoria | Habilidades |
 | :--- | :--- |
 | **Linguagem Principal** | Python |
-| **Foco em Dados** | Análise de Dados, Aprendizado de Máquina (ML) |
-| **Conceitos Core** | Programação, Estrutura de Dados |
+| **Análise de Dados (Bibliotecas)** | **Pandas** (manipulação e análise), **NumPy** (computação numérica), **Matplotlib** / **Seaborn** (visualização de dados) |
+| **Aprendizado de Máquina** | **Scikit-learn** (modelagem), **Jupyter Notebooks** / **Google Colab** |
+| **Banco de Dados** | SQL (PostgreSQL, MySQL, etc.), Modelagem de Dados |
+| **Controle de Versão** | Git, GitHub |
 
 ---
 
